@@ -1,0 +1,15 @@
+# Backend dependencies
+fastapi
+uvicorn
+pydantic
+pandas
+pyarrow
+joblib
+scikit-learn
+xgboost
+lightgbm
+
+# Frontend dependencies
+streamlit
+requests
+pillow
